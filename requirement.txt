@@ -1,0 +1,8 @@
+streamlit  # Install using: pip install streamlit
+python-dotenv  # Install using: pip install python-dotenv
+Pillow  # Install using: pip install Pillow
+google-generativeai  # Install using: pip install google-generativeai
+
+#
+Install Dependencies from requirements.txt
+pip install -r requirements.txt
